@@ -32,10 +32,13 @@ Suburban cities have the potential to bring in the more money for PyBer.
 - Rural cities account for less than 7% of the total rides, total fares, and total drivers for Pyber. Rural cities only accounted for $4,327.93 of the total fares.  
 - The average fare per ride was $34.62. This is $10.00 more than the average Urban city ride.
 
+**Some recommendations for the CEO**
+- You should try to increase the amount of rides in all areas as you have enough drivers available to do so. 
+- You should try increasing the amount of rides in suburban cities as the average fare is $30.97, where the average in Urban cities is $24.53.
+- I would not focus too many resources on rural rides as this makes up the lowest percentage of rides and highest fares. You can more easily increase revenue by increasing rides in the rural and suburban cities.
+
 ![Fig5](https://user-images.githubusercontent.com/99093289/159179916-b52e8314-30ba-4ab5-b36d-c1309999b5bf.png)
 ![Fig6](https://user-images.githubusercontent.com/99093289/159179920-fa391845-109b-499b-acc6-aa3d19adc101.png)
 ![Fig7](https://user-images.githubusercontent.com/99093289/159179929-0b5577aa-e4f8-4eee-9d49-d7b12c137be9.png)
 
-**Some recommendations**
-- You should try to increase the amount of rides in all areas as you have enough drivers available to do so. 
-- You should try increasing the amount of rides in suburban cities as the average fare is $30.97, where the average in Urban cities is $24.53.
+
